@@ -1,6 +1,6 @@
 
 Hill and Valley Prediction Project
-  I am excited to share my latest machine learning project focused on predicting hill and valley features in terrain data. This project involves building a model to classify whether a given point in a landscape is part of a hill or a valley. The complete project, including code and analysis, is available on [GitHub](https://github.com/yourusername/Hill_and_Valley_Prediction) and [Kaggle](https://www.kaggle.com/yourusername/Hill_and_Valley_Prediction).
+  I am excited to share my latest machine learning project focused on predicting hill and valley features in terrain data. This project involves building a model to classify whether a given point in a landscape is part of a hill or a valley.
 
  Project Highlights:
 - Objective: Develop a model to accurately predict hill and valley features using terrain data.
